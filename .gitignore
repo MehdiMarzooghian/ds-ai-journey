@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.parquet
+data/raw/
+
+# Environment variables
+.env
+*.log
+
+# VS Code
+.vscode/
